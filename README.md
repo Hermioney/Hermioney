@@ -1,8 +1,8 @@
 - 👋 Olá, sou a Hermione
 - 👀 Tenho interesse em aprender 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Atualmente estou estudando: Pensamento Computacional
+- 💞️ Procuro colaborar em: Estudar
+- 📫 Como me achar: @b4dlly_
 
 
 ![Scratch](	https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
