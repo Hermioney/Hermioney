@@ -1,5 +1,4 @@
 - 👋 Olá, sou a Hermione
-- 👀 Tenho interesse em aprender 
 - 🌱 Atualmente estou estudando: Pensamento Computacional
 - 💞️ Procuro colaborar em: Estudar
 - 📫 Como me achar: @b4dlly_
